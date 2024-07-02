@@ -34,13 +34,13 @@ $ ls
 
 
 $ git commit -m "delete"
-			[main d939e04] delete
+			--->[main d939e04] delete
 			 2 files changed, 232 deletions(-)
 			 delete mode 100644 The_Mfcc_v3.py
 			 delete mode 100644 index.html
 
 $ git push
-			Enumerating objects: 3, done.
+			---> Enumerating objects: 3, done.
 			Counting objects: 100% (3/3), done.
 			Delta compression using up to 4 threads
 			Compressing objects: 100% (1/1), done.
